@@ -21,6 +21,9 @@ session_start();
 </head>
 
 <body>
+
+<div class="d-flex flex-column min-vh-100">
+
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white py-3 fixed-top">
   <div class="container">
