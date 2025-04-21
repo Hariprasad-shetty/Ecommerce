@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="mt-5 py-5">
+<footer class="mt-auto py-5">
   <div class="row container mx-auto pt-5">
     <div class="footer-one col-lg-3 col-md-6 col-sm-12">
       <img src="assets/img/logo.png" alt="Logo" class="logo" />
@@ -62,6 +62,6 @@
     </div>
   </div>
 </footer>
-
+</div>
 <!-- Bootstrap JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
